@@ -344,7 +344,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:190px;
+  width:230px;
   height:26px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -358,7 +358,7 @@
   position:absolute;
   left:311px;
   top:175px;
-  width:190px;
+  width:230px;
   height:26px;
   display:flex;
   transition:none;
